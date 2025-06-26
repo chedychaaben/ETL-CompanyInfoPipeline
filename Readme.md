@@ -35,7 +35,7 @@ This Python script 📜 transforms two text files (`all-industry-list.txt` 📋 
 1. 📥 Place `all-industry-list.txt` and `all-industry-maps.txt` in the same folder as the script.
 2. ▶️ Run the script:
    ```bash
-   python process_files.py
+   python full_script.py
    ```
 3. ✅ Check the generated CSV file! 📄
 
